@@ -386,7 +386,8 @@ mouse_val_str=${chars:32}
 mouse_on=${mouse_type[0]}
 cls
 
-## commands to be placed in buttons  | script is tight commands can be passed from one entry adding command w/o an array kewl | excellent
+## commands to be placed in buttons  | note systemd-analyze critical critical chain is obviously systemd dependent; 
+## substitute your own command/s have fun! oOO^<^OOo
 
 button_cmd=( journalctl df uptime who ps "ls -la" "systemd-analyze critical-chain" now help about exit)  
 
