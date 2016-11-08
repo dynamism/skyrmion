@@ -31,7 +31,7 @@ Anyone interested in learning a little BASH
 
 Usage:
 
-d/l into a working dir. wget curl whatev then open the file in you favorite editor and BASH! 
+d/l into a working dir. wget curl whatev then open the file in your favorite editor and BASH! 
 
 (WARNING - Do Not Run Unsandboxed Scripts You Do Not Understand) 
 
