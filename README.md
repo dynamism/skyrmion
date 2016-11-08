@@ -38,12 +38,6 @@ d/l into a working dir. wget curl whatev then open the file in your favorite edi
 (WARNING - Do Not Run Unsandboxed Scripts You Do Not Understand) 
 
 Finally $chmod +x then ./skyrmion.sh
-
-         __                        _           
-   _____/ /____  ___________ ___  (_)___  ____ 
-  / ___/ //_/ / / / ___/ __ `__ \/ / __ \/ __ \
- (__  ) ,< / /_/ / /  / / / / / / / /_/ / / / /
-/____/_/|_|\__, /_/  /_/ /_/ /_/_/\____/_/ /_/ 
-          /____/                               
+                        
 
 l8r
