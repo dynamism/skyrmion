@@ -37,7 +37,7 @@ d/l into a working dir. wget curl whatev then open the file in your favorite edi
 
 (WARNING - Do Not Run Unsandboxed Scripts You Do Not Understand) 
 
-Finally $chmod +x  or $chmod u+x then ./skyrmion.sh or $bash skyrmion.sh
+Finally $chmod +x  or $chmod u+x then $./skyrmion.sh or $bash skyrmion.sh
                         
 
 l8r
